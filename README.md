@@ -1,5 +1,7 @@
 ![h](https://github.com/navanee-2003/OwlUp/assets/115069346/930a2950-0b64-4f0c-b738-2ceb25c14a72)
 
+### Owlup
+"Every situation is under your control"
 ## Inspiration
 The inspiration behind Owl-Up was to address the crucial need for public safety and security in today's world. We aimed to develop a solution that leverages advanced technologies to enhance surveillance, protect communities, and establish efficient communication channels with the local police stations.
 
